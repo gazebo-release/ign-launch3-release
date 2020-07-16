@@ -1,0 +1,12 @@
+ignition-launch2 (2.1.0-1~focal) focal; urgency=medium
+
+  * ignition-launch2 2.1.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Thu, 21 May 2020 05:26:23 -0700
+
+ignition-launch2 (2.0.1-3~focal) focal; urgency=medium
+
+  * ignition-launch2 2.0.1-3 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 26 Feb 2020 12:51:39 -0800
+
