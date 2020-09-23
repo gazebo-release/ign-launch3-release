@@ -21,7 +21,7 @@ Build-Depends: cmake,
                libqt5core5a,
                binutils-dev
 Vcs-Browser: https://github.com/ignition-release/ign-launch3-release
-Vcs-Hg: https://github.com/ignition-release/ign-launch3-release
+Vcs-Git: https://github.com/ignition-release/ign-launch3-release
 Homepage: https://github.com/ignition-release/ign-launch3
 
 Package: libignition-launch3
