@@ -1,3 +1,9 @@
+ignition-launch3 (3.2.0-1~focal) focal; urgency=medium
+
+  * ignition-launch3 3.2.0-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Mon, 12 Apr 2021 13:38:23 -0800
+
 ignition-launch3 (3.1.1-1~focal) focal; urgency=medium
 
   * ignition-launch3 3.1.1-1 release
